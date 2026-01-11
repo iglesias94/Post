@@ -1,4 +1,5 @@
-(IMG_7834.jpeg)
+
+![Happy Birthday](IMG_7834.jpeg)
 
 🎉 Happy Birthday, Hassaan  🎂
 
